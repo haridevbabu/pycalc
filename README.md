@@ -1,1 +1,1 @@
-# project1
+# Python GUI calculator
